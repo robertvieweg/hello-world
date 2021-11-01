@@ -1,8 +1,8 @@
 # hello-world
 My first repositor
 
-Provádím změny
 
+Provádím změny
 
 Hello There!
 General Kenobi!
