@@ -1,5 +1,7 @@
 # hello-world
-My first repository
+My first repositor
+
+Taky jsem taky provedl změny
 
 Hello There!
 General Kenobi!
